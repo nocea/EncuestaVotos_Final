@@ -1,4 +1,8 @@
-
+.fondo-difuminado{
+  background-image: url('https://fondosmil.com/fondo/25312.jpg');
+  background-size: cover;
+  backdrop-filter: blur(5px);
+}
 
 
 /* CSS */
